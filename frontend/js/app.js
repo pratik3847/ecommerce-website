@@ -1,0 +1,1 @@
+document.getElementById('products').innerHTML = '<p>Product cards will go here</p>';
