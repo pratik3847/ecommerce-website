@@ -9,7 +9,6 @@ This project consists of a modern **frontend** (HTML, CSS, JS) and a **Node.js +
 ## Table of Contents
 
 - [Features](#features)
-- [Screenshots](#screenshots)
 - [Tech Stack](#tech-stack)
 - [Folder Structure](#folder-structure)
 - [Setup Instructions](#setup-instructions)
@@ -17,7 +16,6 @@ This project consists of a modern **frontend** (HTML, CSS, JS) and a **Node.js +
 - [API Documentation](#api-documentation)
 - [Deployment Guide](#deployment-guide)
 - [Contributing](#contributing)
-- [License](#license)
 - [Author](#author)
 
 ---
