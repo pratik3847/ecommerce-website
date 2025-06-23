@@ -60,16 +60,6 @@ Pretty basic for now. Planning to add user login and admin dashboard later.
 
 ---
 
-## 🚀 How to run it locally
-
-### For backend:
-
-```bash
-cd backend
-npm install
-# make sure Mongo is running locally or use cloud URI
-node server.js
-
  Ideas for later
 Add login/signup with JWT
 
@@ -94,3 +84,14 @@ Author
 Pratik Sawant
 Instagram: @thethreadstudios
 Based in India 🇮🇳
+
+## 🚀 How to run it locally
+
+### For backend:
+
+```bash
+cd backend
+npm install
+# make sure Mongo is running locally or use cloud URI
+node server.js
+
